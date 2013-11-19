@@ -1,0 +1,10 @@
+.ui.button.large {
+  padding: 0 18px;
+  font-size: 18px;
+  height: 54px;
+  line-height: 54px;
+}
+.ui.button.large.compact {
+  height: 36px;
+  line-height: 36px;
+}
